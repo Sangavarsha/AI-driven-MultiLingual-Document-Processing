@@ -1,0 +1,23 @@
+Example 2: Electromagnets-Increasing - Coils (GR 3-5)
+The following data were collected using an electromagnet with a 1.5 volt battery, a switch,
+a piece of #20 insulated wire, and a nail. Three trials were run. Safety precautions in
+repeating this experiment include using safety goggles or safety spectacles and avoiding
+short circuits.
+Number of Coils
+Number of Paperclips
+5
+3, 5, 4
+10
+7, 8, 6
+15
+11, 10, 12
+20
+15, 13, 14
+
+
+Here are the converted sentences:
+
+There are 5 coils and 3, 5, and 4 paperclips.
+There are 10 coils and 7, 8, and 6 paperclips.
+There are 15 coils and 11, 10, and 12 paperclips.
+There are 20 coils and 15, 13, and 14 paperclips.

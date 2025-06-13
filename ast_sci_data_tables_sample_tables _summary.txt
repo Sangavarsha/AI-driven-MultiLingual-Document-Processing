@@ -1,0 +1,33 @@
+
+
+Based on the extracted table data, here are the converted sentences:
+
+**Table 1**
+
+* There are 5 coils with 3, 5, and 4 paperclips.
+* There are 10 coils with 7, 8, and 6 paperclips.
+* There are 15 coils with 11, 10, and 12 paperclips.
+* There are 20 coils with 15, 13, and 14 paperclips.
+
+**Table 2**
+
+* On August 5, 1963, Craig Breedlove drove the Spirit of America at a speed of 407.447 mph, piloted by GE J47 engine.
+* On October 2, 1964, Tom Green drove the Wingfoot Express at a speed of 413.199 mph, piloted by WE J46 engine.
+* On October 5, 1964, Art Arfons drove the Green Monster at a speed of 434.22 mph, piloted by GE J79 engine.
+* On October 13, 1964, Craig Breedlove drove the Spirit of America at a speed of 468.719 mph, piloted by GE J79 engine.
+* On October 15, 1965, Craig Breedlove drove the Spirit of America at a speed of 526.277 mph, piloted by GE J79 engine.
+* On October 27, 1965, Art Arfons drove the Green Monster at a speed of 536.712 mph, piloted by GE J79 engine.
+* On November 2, 1965, Craig Breedlove drove the Spirit of America and Sonic 1 at a speed of 555.127 mph, piloted by GE J79 engine.
+* On November 7, 1965, Art Arfons drove the Green Monster at a speed of 576.553 mph, piloted by GE J79 engine.
+* On November 15, 1965, Craig Breedlove drove the Spirit of America and Sonic 1 at a speed of 600.601 mph, piloted by GE J79 engine.
+* On October 23, 1970, Gary Gabelich drove the Blue Flame at a speed of 622.407 mph, piloted by Rocket engine.
+* On October 4, 1983, Richard Noble drove the Thrust 2 at a speed of 633.468 mph, piloted by RR RG 146 engine.
+* On October 15, 1997, Andy Green drove the Thrust SSC at a speed of 763.035 mph, piloted by RR Spey engine.
+
+**Table 3**
+
+* After 1 drop of water, the distance traveled is 10, 11, and 9 cm.
+* After 2 drops of water, the distance traveled is 29, 31, and 30 cm.
+* After 3 drops of water, the distance traveled is 59, 58, and 61 cm.
+* After 4 drops of water, the distance traveled is 102, 100, and 98 cm.
+* After 5 drops of water, the distance traveled is 122, 125, and 127 cm.
